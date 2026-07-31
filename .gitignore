@@ -1,0 +1,5 @@
+node_modules/
+tmp/uploads/*
+tmp/output/*
+!tmp/uploads/.gitkeep
+!tmp/output/.gitkeep

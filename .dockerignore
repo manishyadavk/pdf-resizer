@@ -1,0 +1,4 @@
+node_modules
+tmp/uploads/*
+tmp/output/*
+npm-debug.log
